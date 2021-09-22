@@ -21,9 +21,9 @@ No additional installation is required for this project.
   This was accomplished by using these methods :
   </br> `forEach loop` </br> `document.querySelector` </br> `insertAdjacentHTML` </br>
 
-* next part is to add the functionality to scroll to sections. This got accomplished by using `scrollIntoView()` method .
+* Next part is to add the functionality to scroll to sections. This got accomplished by using `scrollIntoView()` method .
 
-- last part is adding functionality to distinguish the section in view. This got accomplished by using the `.getBoundingClientRect()` method . Active states have to be added to the sections as well as the corresponding nav-links.
+- Last part is adding functionality to distinguish the section in view. This got accomplished by using the `.getBoundingClientRect()` method . Active states have to be added to the sections as well as the corresponding nav-links.
 
 #### Features
 
