@@ -19,9 +19,9 @@ No additional installation is required for this project.
 
 - First part was building dynamically sections in the navbar of the page.
   This was accomplished by using these methods :
-  </br> `forEach loop` </br> `document.querySelector` </br> `insertAdjacentHTML` </br>
+  </br> `.forEach loop` </br> `document.querySelector` </br> `.insertAdjacentHTML` </br>
 
-* Next part is to add the functionality to scroll to sections. This got accomplished by using `scrollIntoView()` method .
+* Next part is to add the functionality to scroll into specific sections. This got accomplished by using `.scrollIntoView()` method .
 
 - Last part is adding functionality to distinguish the section in view. This got accomplished by using the `.getBoundingClientRect()` method . Active states have to be added to the sections as well as the corresponding nav-links.
 
