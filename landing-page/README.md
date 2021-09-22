@@ -28,4 +28,4 @@ No additional installation is required for this project.
 #### Features
 
 - Active State change for sections and nav links as user scrolls the viewport.
-- Smooth scrolling using `scrollIntoView` when a nav section is grtting clicked .
+- Scrolling with smooth behvior using `scrollIntoView` when a nav section is getting clicked .
